@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #f4f6f8; /* Light gray background */
+  background-color: #f4f6f8; 
 }
 
 .app-container {
@@ -40,7 +40,6 @@ h1 {
   margin-bottom: 30px;
 }
 
-/* Form Styles */
 .form-row {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
@@ -114,7 +113,6 @@ h1 {
   background-color: #f1f5f9;
 }
 
-/* List Styles */
 .list-container {
   min-height: 60px;
 }
@@ -173,7 +171,6 @@ h1 {
   background-color: #fecaca;
 }
 
-/* Responsive Design */
 @media (max-width: 600px) {
   .form-row {
     grid-template-columns: 1fr;
